@@ -1,0 +1,97 @@
+.Border{
+	width: 400px;
+	height:450px;
+	border: 2px solid black;
+	margin-left: 300px;
+	margin-top: 20px;
+	position: absolute;
+	background-color: gray;
+	opacity: 0.4;
+	
+
+}
+.container{
+	width: 400px;
+	height:450px;
+	margin-left: 300px;
+	margin-top: 20px;
+	position: relative;
+	
+}
+
+.form{
+	padding: 20px;
+	box-sizing: border-box;
+	margin:auto;
+			}
+			.input_tag{
+				width: 350px;
+				height: 20px;
+				margin-left: 20px;
+				padding-top: 30px;
+
+			}
+			.input_tag label{
+				width: 350px;
+				height: 30px;
+				display: inline-block;
+				margin-top: 20px;
+				position: relative;
+				color: white;
+				font-weight: bold;
+				background: none;
+
+			}
+			.input_tag input{
+				width: 100%;
+				height: 30px;
+				border:1px solid white;
+				outline: none;
+				background:transparent;
+				color: white;
+				}
+
+			.main{
+				/*text-align: center;*/
+				padding-top: 40px;
+				position: relative;
+				height: 600px;
+				width: 1000px;
+				border: 3px solid black;
+				background: url(road.jpg);
+				margin: auto;
+				margin-top: 50px;
+			}
+			.submit{
+				padding-top: 30px;
+				width: 30%;
+				color: yellow;
+
+			}
+			.submit input{
+				text-transform: uppercase;
+				color: black;
+				background-color: yellow;
+				font-weight: bolder;
+			}
+			.main h2{
+				text-align: center;
+				color: yellow;
+			}
+			.main h3{
+				text-align: center;
+				color: yellow;
+				padding-top: 20px;
+				padding-left: 500px;
+				font-family: Chiller;
+				font-size: 25px;
+				/*font-weight: 100px;*/
+			
+			}
+			.self{
+				position: absolute;
+				padding-left: 860px;
+				padding-top: 450px;
+				
+			}
+			

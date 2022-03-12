@@ -1,0 +1,21 @@
+ul {
+	list-style-type:none;
+	text-align:centre;
+}
+ul li{
+	padding:10px;
+	display:inline-block;
+	width:100px;
+	margin: 50px;
+}
+ul li img{background-color: #465338;
+			border: 4px solid green;
+			width: 200px;
+			height: 200px;
+			border-radius: 50%;
+			text-align:center;
+		}
+			
+			
+	
+}
